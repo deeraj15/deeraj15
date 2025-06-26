@@ -1,27 +1,153 @@
-# 💫 About Me:
- 👋 About Me  <br>🎓 Aspiring Software Developer currently pursuing a B.Tech in Computer Science Engineering (CSE Core) at SR University, Warangal (2022-2026).  <br><br>🌟 Hackathon Enthusiast with achievements like securing 2nd place in a college-wide hackathon and 5th place in an internal hackathon.  <br><br>💻 Passionate Coder skilled in Java, Python, and Web Development, with hands-on experience in building innovative projects like AI/ML applications, Cloud-based systems, and IoT solutions.  <br><br>🌱 Constantly learning and growing—currently exploring Python-based development and Cloud Computing.  <br><br>🚀 I thrive on solving real-world problems, contributing to open-source, and collaborating on impactful projects that make a difference.  <br>
+# Hi there, I'm Deeraj Monala 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dheerajnaidu_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Deeraj Monala) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deeraj15&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deeraj15&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deeraj15&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm an aspiring **Software Developer** pursuing **B.Tech in Computer Science Engineering** at **SR University, Warangal** (2022–2026). Passionate about building scalable solutions and solving complex problems through code.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deeraj15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deeraj15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 Currently exploring **Python Development** and **Cloud Computing**
+- 🌱 Learning advanced **Data Structures & Algorithms**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 🥈 **2nd Place** winner in college-wide hackathon
+- 🥉 **5th Place** in internal hackathon
+- 💡 Always excited to take on new challenges
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deeraj15&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js" alt="Programming Languages" />
+</p>
+
+### Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" alt="Frameworks" />
+</p>
+
+### Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" alt="Tools" />
+</p>
+
+### Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash" alt="DevOps" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deeraj15&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeraj15&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deeraj15&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deeraj15&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💻 LeetCode Statistics
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/DeerajMonala?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/DeerajMonala?theme=dark" alt="LeetCode Progress"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deeraj15&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```python
+class CurrentFocus:
+    def __init__(self):
+        self.learning = ["Advanced DSA", "System Design", "Cloud Architecture"]
+        self.building = ["Full-Stack Applications", "Open Source Tools"]
+        self.goals = ["Software Engineer Role", "Contributing to Major OSS Projects"]
+    
+    def get_motto(self):
+        return "Code with purpose, learn with passion, grow with persistence"
+
+focus = CurrentFocus()
+print(focus.get_motto())
+```
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/deeraj15">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeraj15&repo=your-best-project&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Featured Project 1"/>
+  </a>
+  <a href="https://github.com/deeraj15">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeraj15&repo=another-project&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Featured Project 2"/>
+  </a>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/deeraj-monala">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/dheerajnaidu_03">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/DeerajMonala/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:deerajmonala@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+## 📊 Profile Views & Visitors
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=deeraj15&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/deeraj15?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub Followers"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote"/>
+</div>
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/deeraj15">deeraj15</a> - Building the future, one commit at a time</i>
+</div>
+
+---
+
