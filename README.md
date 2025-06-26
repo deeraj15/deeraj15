@@ -40,12 +40,12 @@ SR University, Warangal
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" alt="Programming Languages" />
 </p>
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Frameworks" />
 </p>
 
 ### Databases & Tools
