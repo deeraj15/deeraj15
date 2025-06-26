@@ -1,7 +1,7 @@
 # Hi there, I'm Deeraj Monala 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Hackathon+Finalist" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -11,9 +11,28 @@ I'm an aspiring **Software Developer** pursuing **B.Tech in Computer Science Eng
 - 🔭 Currently exploring **Python Development** and **Cloud Computing**
 - 🌱 Learning advanced **Data Structures & Algorithms**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 🥈 **2nd Place** winner in college-wide hackathon
 - 🥉 **5th Place** in internal hackathon
 - 💡 Always excited to take on new challenges
+
+## 🎓 Education
+
+**B.Tech – Computer Science Engineering**  
+*Oct 2022 – May 2026*  
+SR University, Warangal  
+**CGPA:** 8.2/10.0
+
+---
+
+## 🏆 Achievements & Leadership
+
+• **Finalist** - South Zone Anveshan Competition
+
+---
+
+## 📜 Certifications
+
+• **NPTEL:** Theory of Computation  
+• **Microsoft Certified:** Azure Fundamentals
 
 ---
 
@@ -31,12 +50,7 @@ I'm an aspiring **Software Developer** pursuing **B.Tech in Computer Science Eng
 
 ### Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" alt="Tools" />
-</p>
-
-### Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" alt="Tools" />
 </p>
 
 ---
@@ -118,9 +132,6 @@ print(focus.get_motto())
 <div align="center">
   <a href="https://linkedin.com/in/deeraj-monala">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/dheerajnaidu_03">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://leetcode.com/u/DeerajMonala/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
