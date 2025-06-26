@@ -40,7 +40,7 @@ SR University, Warangal
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Programming Languages" />
 </p>
 
 ### Frameworks & Libraries
@@ -117,13 +117,25 @@ print(focus.get_motto())
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/deeraj15">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeraj15&repo=your-best-project&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Featured Project 1"/>
+  <a href="https://github.com/deeraj15/SecureChatGUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeraj15&repo=SecureChatGUI&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="SecureChatGUI"/>
   </a>
-  <a href="https://github.com/deeraj15">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeraj15&repo=another-project&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Featured Project 2"/>
+  <a href="https://github.com/deeraj15/EmployeeManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeraj15&repo=EmployeeManagementSystem&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Employee Management System"/>
   </a>
 </div>
+
+### 💼 Project Highlights
+
+**🔐 SecureChatGUI**
+- Secure messaging application with GUI interface
+- Features encrypted communication protocols
+- Built with focus on privacy and security
+
+**👥 Employee Management System**
+- Comprehensive employee data management solution
+- Database-driven application with full CRUD operations
+- Streamlined HR processes and employee tracking
 
 ---
 
@@ -161,4 +173,3 @@ print(focus.get_motto())
 </div>
 
 ---
-
