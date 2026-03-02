@@ -1,189 +1,171 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║              DEERAJ MONALA — GITHUB PROFILE                 ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<!-- 3D HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=DEERAJ%20MONALA&fontColor=58a6ff&fontSize=60&fontAlignY=45&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=65&descSize=18&descColor=8b949e&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
+
+<!-- ANIMATED TYPING SUBTITLE -->
 <div align="center">
-  
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1f2e,50:0d47a1,70:1565c0,90:42a5f5,100:80d8ff&height=220&section=header&text=&fontSize=0&animation=fadeIn" />
 
-<!-- GLITCH-STYLE NAME -->
-<a href="https://github.com/deeraj15">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=DEERAJ+MONALA" alt="Name" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=%F0%9F%8F%A2+IT+Associate+Intern+%40+Navsan+India;%F0%9F%92%BB+Ex-SDE+Intern+%40+LogicWhile+%7C+Python+Full-Stack;%F0%9F%8E%93+B.Tech+CSE+%40+SR+University+%2726+%7C+CGPA%3A+8.2;%F0%9F%93%9C+Patent+Published+%E2%80%A2+Azure+Certified+%E2%80%A2+Anveshan+Finalist" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ANIMATED ROLE TYPING -->
-<a href="https://github.com/deeraj15">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=30&lines=%E2%9A%A1+Software+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+Enthusiast" alt="Typing SVG" />
-</a>
+<!-- SOCIAL LINKS WITH GLOW EFFECT -->
+[![LinkedIn](https://img.shields.io/badge/-Deeraj_Monala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeraj-monala/)
+[![Gmail](https://img.shields.io/badge/-deerajmonala@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deerajmonala@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-DeerajMonala-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DeerajMonala/)
+[![GitHub](https://img.shields.io/badge/-deeraj15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deeraj15)
 
 <br/>
 
-<!-- ANIMATED SUBTITLE -->
-<a href="https://github.com/deeraj15">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=20&lines=IT+Associate+Intern+%40+Navsan+India+%E2%80%A2+SDE+Intern+%40+LogicWhile+%E2%80%A2+B.Tech+CSE+%40+SR+University+%2726;Patent+Published+%E2%80%A2+Azure+Certified+%E2%80%A2+South+Zone+Anveshan+Finalist" alt="Subtitle" />
+![Profile Views](https://komarev.com/ghpvc/?username=deeraj15&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/deeraj15?label=FOLLOWERS&style=for-the-badge&color=58A6FF)
+
+</div>
+
+<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; About Me
+
+<img align="right" src="https://raw.githubusercontent.com/SubhadeepZi662/SubhadeepZi662/main/icons/animation_500_kxa883sd.gif" width="280"/>
+
+```js
+const deeraj = {
+    pronouns: "he/him",
+    location: "Warangal, Telangana 🇮🇳",
+    education: {
+        degree: "B.Tech — Computer Science Engineering",
+        university: "SR University, Warangal",
+        graduation: "2026",
+        cgpa: "8.2 / 10.0"
+    },
+    experience: [
+        "🏢 IT Associate Intern @ Navsan India (Current)",
+        "💻 SDE Intern @ LogicWhile (Python Full-Stack)"
+    ],
+    achievements: [
+        "📜 Patent Published — CS Domain",
+        "🏆 Finalist — South Zone Anveshan",
+        "🥉 5th Place — Smart India Hackathon",
+        "☁️ Microsoft Azure Fundamentals Certified",
+        "📚 NPTEL — Theory of Computation"
+    ],
+    currentlyLearning: ["System Design", "Cloud Architecture"],
+    funFact: "I debug with console.log and I'm proud of it 😄"
+};
+```
+
+<br clear="right"/>
+
+<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">&nbsp; Tech Stack
+
+<div align="center">
+
+### ⚡ Languages & Scripting
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,html,css&perline=6&theme=dark" />
 </a>
 
 <br/><br/>
 
-<!-- ANIMATED BADGES -->
-<a href="https://www.linkedin.com/in/deeraj-monala/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/DeerajMonala/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
-</a>
-&nbsp;
-<a href="mailto:deerajmonala@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://github.com/deeraj15">
-  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=58A6FF" alt="Portfolio"/>
-</a>
-
+### 🔥 Frameworks, Libraries & Runtime
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=deeraj15&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/deeraj15?label=Followers&style=flat-square&color=58A6FF" alt="GitHub Followers" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,opencv&perline=4&theme=dark" />
+</a>
+
+<br/><br/>
+
+### 🗃️ Databases & Cloud
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,azure&perline=4&theme=dark" />
+</a>
+
+<br/><br/>
+
+### 🛠️ DevOps & Tools
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&perline=5&theme=dark" />
+</a>
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-```yaml
-name: Deeraj Monala
-location: Warangal, Telangana, India
-education:
-  degree: B.Tech in Computer Science Engineering
-  university: SR University, Warangal
-  graduation: 2026
-  cgpa: 8.2/10.0
+## 💼&nbsp; Work Experience
 
-current_role: IT Associate Intern @ Navsan India
-previous_role: SDE Intern @ LogicWhile (Python Full-Stack)
+<div align="center">
 
-achievements:
-  - 📜 Patent Published in Computer Science Domain
-  - 🏆 Finalist — South Zone Anveshan Competition (National Level)
-  - 🥉 5th Place — Smart India Hackathon (Internal)
-  - ☁️ Microsoft Certified — Azure Fundamentals
-  - 📚 NPTEL Certified — Theory of Computation
-
-currently_learning: ["System Design", "Cloud Architecture", "Advanced DSA"]
-motto: "Code with purpose, learn with passion, grow with persistence"
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   🏢  NAVSAN INDIA                                 📅  Jan 2026 – Present   ║
+║   ═══════════════                                                            ║
+║   💼  IT Associate Intern                                                    ║
+║                                                                              ║
+║   ▸ IT Operations & ITSM Solution Setup                                      ║
+║   ▸ Standardizing & configuring laptops for security compliance              ║
+║   ▸ OS configuration, software deployment, antivirus setup                   ║
+║   ▸ Defining ticket categories, workflows & priorities                       ║
+║                                                                              ║
+║   🏷️  IT Operations • ITSM • System Config • Software Deployment            ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   💻  LOGICWHILE (Remote)                          📅  Jan – Jul 2025       ║
+║   ════════════════════                                                       ║
+║   💼  Software Development Engineer Intern                                   ║
+║                                                                              ║
+║   ▸ Python Full Stack — scalable web components                              ║
+║   ▸ Clean code principles & DSA implementation                               ║
+║   ▸ Git-based structured development workflows                               ║
+║   ▸ Production-ready, maintainable codebase                                  ║
+║                                                                              ║
+║   🏷️  Python • Full-Stack • Git • Clean Code • DSA                          ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Tech Arsenal
-
-<div align="center">
-
-### 🎨 Languages
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<br/>
-
-### ⚡ Frameworks & Libraries
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-<br/>
-
-### 🗄️ Databases & Cloud
-<br/>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-<br/>
-
-### 🛠️ Tools & DevOps
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 </div>
 
-<br/>
+<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 💼 &nbsp;Professional Experience
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 Navsan India
-**IT Associate Intern** &nbsp; `Jan 2026 – Present`
-
-> Working on IT Operations & ITSM — standardizing company laptops for security compliance, configuring OS, deploying software, and contributing to ITSM solution setup.
-
-`IT Operations` `ITSM` `System Config` `Software Deployment`
-
-</td>
-<td width="50%">
-
-### 💻 LogicWhile
-**SDE Intern (Python Full-Stack)** &nbsp; `Jan 2025 – Jul 2025`
-
-> Built scalable web components using Python, clean code principles, and DSA. Collaborated through Git-based structured development workflows.
-
-`Python` `Full-Stack` `Git` `Clean Code` `DSA`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🚀 &nbsp;Featured Projects
+## 🚀&nbsp; Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/deeraj15">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeraj15&repo=SecureChatGUI&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="SecureChatGUI"/>
+<a href="https://github.com/deeraj15/SecureChatGUI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeraj15&repo=SecureChatGUI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/deeraj15">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeraj15&repo=EmployeeManagementSystem&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="EMS"/>
+&nbsp;
+<a href="https://github.com/deeraj15/EmployeeManagementSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeraj15&repo=EmployeeManagementSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/deeraj15/HCI-course-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeraj15&repo=HCI-course-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -191,128 +173,98 @@ motto: "Code with purpose, learn with passion, grow with persistence"
 <br/>
 
 <details>
-<summary><b>🔍 &nbsp;Explore All Projects</b></summary>
+<summary><h3>🧠 All Projects — Deep Dive</h3></summary>
 <br/>
 
-| # | Project | Description | Tech Stack |
-|:-:|---------|-------------|:----------:|
-| 🧠 | **PEHCHAAN — Smart Attendance** | Facial recognition attendance system with 87% accuracy. Automates attendance via computer vision & exports to Excel. | `Python` `Flask` `OpenCV` `ML` `SQLite` |
-| 🔐 | **Secure Chat Application** | Real-time messaging app with AES encryption protocols & Tkinter GUI — focused on privacy & security. | `Python` `Tkinter` `AES` `Encryption` |
-| 👥 | **Employee Management System** | Database-driven app with full CRUD operations for managing employee data & streamlining HR processes. | `Python` `Database` `CRUD` |
-| 🎨 | **HCI Course Project** | Human-computer interaction research exploring usability principles with intuitive, responsive design. | `HTML` `CSS` `UX Design` `HCI` |
+<div align="center">
+
+| &nbsp; | Project | Description | Stack |
+|:------:|---------|-------------|:-----:|
+| 🧠 | **PEHCHAAN — Smart Attendance** | Facial recognition system with **87% accuracy**. Computer vision powered attendance marking with Excel export. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| 🔐 | **Secure Chat Application** | Real-time messaging with **AES encryption** & Tkinter GUI — privacy-first encrypted communication. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat-square) ![AES](https://img.shields.io/badge/-AES-red?style=flat-square) |
+| 👥 | **Employee Management System** | Full **CRUD** database-driven app for managing employee data, streamlining HR processes. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Database](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| 🎨 | **HCI Course Project** | Human-Computer Interaction research with **intuitive, responsive** interface design. | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![UX](https://img.shields.io/badge/-UX-purple?style=flat-square) |
+
+</div>
 
 </details>
 
-<br/>
+<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">&nbsp; GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deeraj15&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeraj15&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-</div>
 
-<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deeraj15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeraj15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deeraj15&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-</div>
+<br/><br/>
 
-<br/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=deeraj15&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+
+<br/><br/>
 
 <!-- CONTRIBUTION GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deeraj15&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true" alt="Contribution Graph" width="98%"/>
-</div>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=deeraj15&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" />
 
-<br/>
+<br/><br/>
 
 <!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deeraj15&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" width="98%"/>
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 💻 &nbsp;LeetCode Statistics
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/DeerajMonala?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10" alt="LeetCode Stats" width="500"/>
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🏅 &nbsp;Certifications & Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /><br/>
-<sub><b>Cloud Certification</b></sub>
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/NPTEL-Theory_of_Computation-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="NPTEL" /><br/>
-<sub><b>Academic Certification</b></sub>
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/Patent-Published-FF6B6B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Patent" /><br/>
-<sub><b>CS Domain Patent</b></sub>
-
-</td>
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=deeraj15&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="98%"/>
 
 </div>
 
-<br/>
+<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 💻&nbsp; LeetCode Stats
 
-<br/>
+<div align="center">
 
-## 🎯 &nbsp;Current Focus
+<img src="https://leetcard.jacoblin.cool/DeerajMonala?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=20" width="500"/>
+
+</div>
+
+<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🏅&nbsp; Certifications
+
+<div align="center">
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Certification | Issuer |
+|:---:|:---|:---|
+| ☁️ | **Azure Fundamentals (AZ-900)** | Microsoft Certified |
+| 📚 | **Theory of Computation** | NPTEL (IIT) |
+| 📜 | **Patent Published** | Computer Science Domain |
+
+</div>
+
+<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🎯&nbsp; What I'm Up To
+
+<div align="center">
 
 ```python
 class DeerajMonala:
-    """Software Engineer & Full-Stack Developer"""
+    """🚀 Software Engineer & Full-Stack Developer"""
     
     def __init__(self):
-        self.name        = "Deeraj Monala"
-        self.role        = "IT Associate Intern @ Navsan India"
-        self.education   = "B.Tech CSE @ SR University '26"
-        self.languages   = ["Python", "JavaScript", "Java", "C"]
+        self.name         = "Deeraj Monala"
+        self.role         = "IT Associate Intern @ Navsan India"
+        self.education    = "B.Tech CSE @ SR University '26"
+        self.stack        = ["Python", "JavaScript", "Java", "C"]
         
     @property
     def currently_learning(self):
-        return ["System Design", "Cloud Architecture", "Advanced DSA"]
-    
-    @property
-    def building(self):
-        return ["Full-Stack Applications", "AI-Powered Tools", "Open Source"]
+        return {
+            "🧠": "System Design & Architecture",
+            "☁️": "Cloud Computing (Azure)",
+            "📊": "Advanced Data Structures & Algorithms",
+        }
     
     @property
     def goals_2026(self):
@@ -320,24 +272,23 @@ class DeerajMonala:
             "🎯 Land a Full-Time Software Engineer Role",
             "🌟 Contribute to Major Open Source Projects",
             "☁️ Earn Advanced Cloud Certifications",
-            "🧠 Master System Design Principles"
+            "🔬 Build AI/ML Powered Applications",
         ]
     
-    def get_motto(self):
+    def motto(self):
         return "Code with purpose, learn with passion, grow with persistence 🚀"
 
 me = DeerajMonala()
-print(me.get_motto())
+print(me.motto())
+# >>> Code with purpose, learn with passion, grow with persistence 🚀
 ```
 
-<br/>
+</div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<br/>
-
-## 🐍 &nbsp;Contribution Snake
+## 🐍&nbsp; Contribution Snake
 
 <div align="center">
   <picture>
@@ -347,48 +298,44 @@ print(me.get_motto())
   </picture>
 </div>
 
-> ⚠️ *To enable the snake animation, add the [Snake Game workflow](https://github.com/Platane/snk) to your profile repo.*
+> 💡 *Snake animation requires the [Platane/snk](https://github.com/Platane/snk) GitHub Action in your profile repo.*
 
-<br/>
+<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🤝 &nbsp;Let's Connect & Collaborate!
+## 🤝&nbsp; Let's Connect!
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/deeraj-monala/" target="_blank">
-  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/deeraj-monala/">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:deerajmonala@gmail.com">
-  <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://leetcode.com/u/DeerajMonala/">
-  <img src="https://img.shields.io/badge/Solve_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Challenge_me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" alt="Quote"/>
+<!-- RANDOM DEV QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
 <br/><br/>
 
-<!-- ANIMATED METRICS -->
-<img src="https://github-readme-stats.vercel.app/api?username=deeraj15&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=true&hide_rank=true" alt="Extra Stats" />
+<!-- RANDOM DEV MEME -->
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%2358a6ff&aColor=%238b949e" alt="Dev Joke" width="500"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1f2e,50:0d47a1,70:1565c0,90:42a5f5,100:80d8ff&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
+<!-- 3D FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=150&section=footer&text=⭐%20Thanks%20for%20visiting!%20⭐&fontColor=58a6ff&fontSize=24&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/deeraj15">deeraj15</a> — Building the future, one commit at a time 🚀</sub>
+  <sub>Built with ❤️ by <a href="https://github.com/deeraj15">Deeraj Monala</a> — Building the future, one commit at a time 🚀</sub>
 </div>
