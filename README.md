@@ -1,5 +1,4 @@
-<!-- ✦✦✦ ANIMATED HEADER BANNER — Gradient Wave ✦✦✦ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,10:0a192f,25:172554,40:1e3a5f,55:1565c0,70:1e88e5,85:42a5f5,100:90caf9&section=header&reversal=false&textBg=false&fontAlignY=40&descAlignY=55&animation=twinkling&text=DEERAJ%20MONALA&fontSize=55&fontColor=ffffff&desc=%E2%9A%A1%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%9A%A1&descSize=16&descColor=90caf9&stroke=58a6ff&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,10:0a192f,25:172554,40:1e3a5f,55:1565c0,70:1e88e5,85:42a5f5,100:90caf9&section=header&reversal=false&textBg=false&fontAlignY=35&descAlignY=55&animation=twinkling&text=DEERAJ%20MONALA&fontSize=60&fontColor=ffffff&desc=%E2%9A%A1%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%9A%A1&descSize=20&descColor=e3f2fd&stroke=58a6ff&strokeWidth=2" width="100%" />
 
 <div align="center">
 
@@ -428,12 +427,21 @@ I regularly practice on **LeetCode** to sharpen my skills in:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🏅&nbsp; Certifications & Recognition
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30">&nbsp; Certifications & Recognition
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%F0%9F%C2%8F%86+Achievements+That+Define+My+Journey" alt="Certifications" />
+
+<br/><br/>
+
+</div>
 
 <table>
 <tr>
 <td align="center" width="33%">
 
+<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="60"/><br/><br/>
 <img src="https://img.shields.io/badge/-NPTEL-1A73E8?style=for-the-badge" /><br/><br/>
 **Theory of Computation**<br/>
 <sub>IIT Certification</sub>
@@ -441,14 +449,16 @@ I regularly practice on **LeetCode** to sharpen my skills in:
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/-Patent-FF6B6B?style=for-the-badge" /><br/><br/>
+<img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="60"/><br/><br/>
+<img src="https://img.shields.io/badge/-PATENT-FF6B6B?style=for-the-badge" /><br/><br/>
 **Patent Published**<br/>
 <sub>Computer Science Domain</sub>
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/-Anveshan-58A6FF?style=for-the-badge" /><br/><br/>
+<img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="60"/><br/><br/>
+<img src="https://img.shields.io/badge/-ANVESHAN-58A6FF?style=for-the-badge" /><br/><br/>
 **South Zone Finalist**<br/>
 <sub>National Level Competition</sub>
 
@@ -458,7 +468,7 @@ I regularly practice on **LeetCode** to sharpen my skills in:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎯&nbsp; What I'm Up To
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">&nbsp; What I'm Up To
 
 <table>
 <tr>
@@ -493,19 +503,25 @@ print(me.motto())
 </td>
 <td width="45%">
 
-### 🚀 2026 Goals
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+</div>
+
+<br/>
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 2026 Goals
 
 - 🎯 Land a **Full-Time Software Engineer** Role
 - 🌟 Contribute to **Major Open Source** Projects
 - 🔬 Build **AI/ML Powered** Applications
 - 📈 Grow as a **Full-Stack Developer**
 
-### 📌 Currently
+### <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="20"> Currently
 
-- 🏢 Working at **Navsan India** on IT Operations
-- 📚 Solving problems on **LeetCode** daily
+- 🏢 Working at **Navsan India** on IT Ops
+- 📚 Solving **LeetCode** problems daily
 - 🛠️ Building **full-stack projects**
-- 🤝 Open to **collaborations** & **opportunities**
+- 🤝 Open to **collaborations**
 
 </td>
 </tr>
@@ -513,18 +529,22 @@ print(me.motto())
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🤝&nbsp; Let's Build Something Together!
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp; Let's Build Something Together!
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%92%AC+Always+open+for+a+chat!;%F0%9F%A4%9D+Let's+collaborate+on+something+cool!;%F0%9F%93%A9+Drop+me+a+message+anytime!" alt="CTA" />
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/deeraj-monala/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+<img src="https://media.giphy.com/media/JnuB3Ivdw25RoL2fMT/giphy.gif" width="25"/>
 <a href="mailto:deerajmonala@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
+<img src="https://media.giphy.com/media/JnuB3Ivdw25RoL2fMT/giphy.gif" width="25"/>
 <a href="https://leetcode.com/u/DeerajMonala/">
   <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
@@ -541,9 +561,9 @@ print(me.motto())
 
 <br/>
 
-<!-- 3D FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=150&section=footer&text=%E2%AD%90%20Thanks%20for%20visiting!%20%E2%AD%90&fontColor=58a6ff&fontSize=24&fontAlignY=70&animation=fadeIn" width="100%"/>
+<!-- ✦ ANIMATED FOOTER — MATCHING HEADER ✦ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:90caf9,15:42a5f5,30:1e88e5,45:1565c0,60:1e3a5f,75:172554,90:0a192f,100:0d1117&section=footer&reversal=false&textBg=false&animation=twinkling&text=⭐%20Thanks%20for%20visiting!%20⭐&fontColor=ffffff&fontSize=22&fontAlignY=70&descColor=90caf9" width="100%"/>
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/deeraj15">Deeraj Monala</a> — Building the future, one commit at a time 🚀</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=14&duration=1&pause=99999&color=8B949E&center=true&vCenter=true&repeat=false&width=500&height=20&lines=Built+with+%E2%9D%A4%EF%B8%8F+by+Deeraj+Monala+%E2%80%94+Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Footer" />
 </div>
