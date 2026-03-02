@@ -1,52 +1,48 @@
-<!-- ✦ PREMIUM 3D HEADER ✦ -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,15:0a192f,30:172554,50:1e3a5f,70:2196f3,85:64b5f6,100:e3f2fd&height=150&section=header&animation=fadeIn" width="100%"/>
+<!-- ✦✦✦ ANIMATED HEADER BANNER — Gradient Wave ✦✦✦ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,10:0a192f,25:172554,40:1e3a5f,55:1565c0,70:1e88e5,85:42a5f5,100:90caf9&section=header&reversal=false&textBg=false&fontAlignY=40&descAlignY=55&animation=twinkling&text=DEERAJ%20MONALA&fontSize=55&fontColor=ffffff&desc=%E2%9A%A1%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%9A%A1&descSize=16&descColor=90caf9&stroke=58a6ff&strokeWidth=2" width="100%" />
 
 <div align="center">
 
-<!-- WAVE GREETING -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=28&duration=1&pause=99999&color=8B949E&center=true&vCenter=true&repeat=false&width=500&height=40&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+my+profile" alt="Greeting" />
-
-<br/>
-
-<!-- ✦ ANIMATED NAME — LARGE & BOLD ✦ -->
-<a href="https://github.com/deeraj15">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=55&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=75&lines=DEERAJ+MONALA" alt="Name" />
-</a>
-
-<br/>
-
-<!-- ✦ TAGLINE ✦ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1&pause=99999&color=C9D1D9&center=true&vCenter=true&repeat=false&width=600&height=25&lines=%E2%9A%A1+Software+Engineer+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+Problem+Solver" alt="Tagline" />
+<!-- ✦ ANIMATED WAVING HAND + GREETING ✦ -->
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
+&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Hey!+I'm+Deeraj+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub!+%F0%9F%9A%80;Let's+build+something+awesome!+%E2%9C%A8" alt="Greeting" />
 
 <br/><br/>
 
-<!-- ✦ ANIMATED ROTATING HIGHLIGHTS ✦ -->
+<!-- ✦ ANIMATED CODING GIF ✦ -->
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
+
+<br/><br/>
+
+<!-- ✦ ANIMATED ROLE CYCLING WITH TYPEWRITER EFFECT ✦ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=25&lines=%F0%9F%8F%A2+IT+Associate+Intern+%40+Navsan+India+%7C+Ex-SDE+Intern+%40+LogicWhile;%F0%9F%8E%93+B.Tech+CSE+%40+SR+University+'26+%7C+CGPA+8.2%2F10;%F0%9F%93%9C+Patent+Published+%E2%80%A2+Anveshan+Finalist+%E2%80%A2+SIH+Finalist;%F0%9F%92%BB+Python+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Flask+%E2%80%A2+MongoDB" alt="Highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&repeat=true&width=750&height=35&lines=%F0%9F%8F%A2+IT+Associate+Intern+%40+Navsan+India;%F0%9F%92%BB+Ex-SDE+Intern+%40+LogicWhile+(Python+Full-Stack);%F0%9F%8E%93+B.Tech+CSE+%40+SR+University+'26+%7C+CGPA%3A+8.2;%F0%9F%93%9C+Patent+Published+in+Computer+Science+Domain;%F0%9F%8F%86+South+Zone+Anveshan+Finalist+%7C+SIH+Finalist;%F0%9F%94%A5+Python+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Flask" alt="Roles" />
 </a>
 
 <br/><br/>
 
-<!-- ✦ SOCIAL LINKS ✦ -->
-<a href="https://www.linkedin.com/in/deeraj-monala/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:deerajmonala@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://leetcode.com/u/DeerajMonala/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-&nbsp;
-<a href="https://github.com/deeraj15"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- ✦ ANIMATED SOCIAL LINKS ✦ -->
+<a href="https://www.linkedin.com/in/deeraj-monala/"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://media.giphy.com/media/JnuB3Ivdw25RoL2fMT/giphy.gif" width="25"/>
+<a href="mailto:deerajmonala@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://media.giphy.com/media/JnuB3Ivdw25RoL2fMT/giphy.gif" width="25"/>
+<a href="https://leetcode.com/u/DeerajMonala/"><img src="https://img.shields.io/badge/-LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<img src="https://media.giphy.com/media/JnuB3Ivdw25RoL2fMT/giphy.gif" width="25"/>
+<a href="https://github.com/deeraj15"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<!-- ✦ PROFILE STATS ✦ -->
-![Profile Views](https://komarev.com/ghpvc/?username=deeraj15&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge)
+<!-- ✦ ANIMATED STATS COUNTERS ✦ -->
+<img src="https://komarev.com/ghpvc/?username=deeraj15&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Views" />
 &nbsp;
-![Followers](https://img.shields.io/github/followers/deeraj15?label=FOLLOWERS&style=for-the-badge&color=58A6FF)
+<img src="https://img.shields.io/github/followers/deeraj15?label=FOLLOWERS&style=for-the-badge&color=FF6B6B" alt="Followers" />
 &nbsp;
-![Stars](https://img.shields.io/github/stars/deeraj15?label=TOTAL+STARS&style=for-the-badge&color=58A6FF)
+<img src="https://img.shields.io/github/stars/deeraj15?label=TOTAL+STARS&style=for-the-badge&color=FFA116" alt="Stars" />
 
 </div>
 
+<!-- ✦ ANIMATED WAVE DIVIDER ✦ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; About Me
