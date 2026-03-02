@@ -65,7 +65,7 @@ I'm **Deeraj Monala** — a Computer Science student and software developer who 
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,html,css&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css&perline=5&theme=dark" />
 </a>
 
 <br/><br/>
@@ -88,12 +88,20 @@ I'm **Deeraj Monala** — a Computer Science student and software developer who 
 
 <br/><br/>
 
-### 🛠️ Tools
+### 🛠️ Tools & IT Operations
 <br/>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=dark" />
 </a>
+
+<br/><br/>
+
+![ServiceDesk Plus](https://img.shields.io/badge/-ServiceDesk_Plus-FF6B6B?style=for-the-badge)
+![Azure Entra ID](https://img.shields.io/badge/-Azure_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Excel](https://img.shields.io/badge/-MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/-MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-MS_PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 </div>
 
@@ -294,19 +302,6 @@ I'm **Deeraj Monala** — a Computer Science student and software developer who 
 <tr>
 
 <td width="50%">
-<h3 align="center">🎨 HCI Course Project</h3>
-<p align="center">
-  <a href="https://github.com/deeraj15/HCI-course-project"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-<p align="center">Human-Computer Interaction research project exploring usability principles with responsive design.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-UX_Design-purple?style=flat-square"/>
-</p>
-</td>
-
-<td width="50%">
 <h3 align="center">🔑 Cryptography</h3>
 <p align="center">
   <a href="https://github.com/deeraj15/Cryptography"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -315,6 +310,18 @@ I'm **Deeraj Monala** — a Computer Science student and software developer who 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Cryptography-DC143C?style=flat-square"/>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">📝 LeetCode Solutions</h3>
+<p align="center">
+  <a href="https://github.com/deeraj15/LEETCODE"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<p align="center">Collection of LeetCode problem solutions — practicing DSA and competitive programming.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-DSA-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 </p>
 </td>
 
@@ -327,20 +334,44 @@ I'm **Deeraj Monala** — a Computer Science student and software developer who 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">&nbsp; GitHub Analytics
 
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">📊 Stats Overview</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deeraj15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" width="100%" />
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">💬 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeraj15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="100%" />
+</p>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deeraj15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeraj15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<h3>🔥 Streak Stats</h3>
+
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=deeraj15&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=deeraj15&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+<h3>📈 Contribution Graph</h3>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=deeraj15&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=deeraj15&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Graph" />
-
-<br/><br/>
+<h3>🏆 Achievements</h3>
 
 <img src="https://github-profile-trophy.vercel.app/?username=deeraj15&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="98%"/>
 
@@ -350,30 +381,69 @@ I'm **Deeraj Monala** — a Computer Science student and software developer who 
 
 ## 💻&nbsp; LeetCode Stats
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-<img src="https://leetcard.jacoblin.cool/DeerajMonala?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=20" width="500"/>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DeerajMonala?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=20" width="100%"/>
+</p>
 
-</div>
+</td>
+<td width="40%">
+
+### 🧠 Problem Solving
+
+I regularly practice on **LeetCode** to sharpen my skills in:
+
+- 📊 **Data Structures & Algorithms**
+- 🧩 **Problem Decomposition**
+- ⚡ **Optimized Solutions**
+- 🏅 **Contest Participation**
+
+[![LeetCode](https://img.shields.io/badge/View_Full_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DeerajMonala/)
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🏅&nbsp; Certifications
+## 🏅&nbsp; Certifications & Recognition
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-| &nbsp; | Certification | Issuer |
-|:---:|:---|:---|
-| 📚 | **Theory of Computation** | NPTEL (IIT) |
-| 📜 | **Patent Published** | Computer Science Domain |
+<img src="https://img.shields.io/badge/-NPTEL-1A73E8?style=for-the-badge" /><br/><br/>
+**Theory of Computation**<br/>
+<sub>IIT Certification</sub>
 
-</div>
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-Patent-FF6B6B?style=for-the-badge" /><br/><br/>
+**Patent Published**<br/>
+<sub>Computer Science Domain</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-Anveshan-58A6FF?style=for-the-badge" /><br/><br/>
+**South Zone Finalist**<br/>
+<sub>National Level Competition</sub>
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🎯&nbsp; What I'm Up To
 
-<div align="center">
+<table>
+<tr>
+<td width="55%">
 
 ```python
 class DeerajMonala:
@@ -381,40 +451,50 @@ class DeerajMonala:
     
     def __init__(self):
         self.name       = "Deeraj Monala"
-        self.role       = "IT Associate Intern @ Navsan India"
+        self.role       = "IT Associate @ Navsan India"
         self.education  = "B.Tech CSE @ SR University '26"
-        self.languages  = ["Python", "JavaScript", "Java", "C"]
+        self.languages  = ["Python", "JavaScript", "C"]
         
     @property
     def currently_learning(self):
         return {
-            "🧠": "System Design & Architecture",
             "📊": "Advanced DSA",
             "🤖": "Machine Learning & AI",
+            "🌐": "Full-Stack Development",
         }
     
-    @property
-    def goals_2026(self):
-        return [
-            "🎯 Land a Full-Time Software Engineer Role",
-            "🌟 Contribute to Major Open Source Projects",
-            "🔬 Build AI/ML Powered Applications",
-            "📈 Grow as a Full-Stack Developer",
-        ]
-    
     def motto(self):
-        return "Code with purpose, learn with passion, grow with persistence 🚀"
+        return "Code with purpose, learn with "  \
+               "passion, grow with persistence 🚀"
 
 me = DeerajMonala()
 print(me.motto())
-# >>> Code with purpose, learn with passion, grow with persistence 🚀
 ```
 
-</div>
+</td>
+<td width="45%">
+
+### 🚀 2026 Goals
+
+- 🎯 Land a **Full-Time Software Engineer** Role
+- 🌟 Contribute to **Major Open Source** Projects
+- 🔬 Build **AI/ML Powered** Applications
+- 📈 Grow as a **Full-Stack Developer**
+
+### 📌 Currently
+
+- 🏢 Working at **Navsan India** on IT Operations
+- 📚 Solving problems on **LeetCode** daily
+- 🛠️ Building **full-stack projects**
+- 🤝 Open to **collaborations** & **opportunities**
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🤝&nbsp; Let's Connect!
+## 🤝&nbsp; Let's Build Something Together!
 
 <div align="center">
 
