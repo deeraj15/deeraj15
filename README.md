@@ -552,8 +552,8 @@ print(me.motto())
 
 <br/><br/>
 
-<!-- ✦ FUN FACTS TYPING ✦ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=20&lines=%F0%9F%8E%AE+Fun+Fact%3A+I+debug+with+console.log+and+I'm+proud!;%E2%98%95+Powered+by+coffee+and+curiosity;%F0%9F%90%8D+Python+is+my+first+love;%F0%9F%92%BB+Coding+since+2022+and+never+looked+back" alt="Fun Facts" />
+<!-- ✦ PROFESSIONAL PRINCIPLES TYPING ✦ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=20&lines=%E2%9C%A8+Clean%2C+maintainable%2C+and+production-ready+code;%F0%9F%9B%A0%EF%B8%8F+Building+scalable+systems+with+purpose;%F0%9F%9A%80+Committed+to+continuous+learning+and+growth;%F0%9F%A4%9D+Thriving+in+collaborative+engineering+teams" alt="Principles" />
 
 </div>
 
