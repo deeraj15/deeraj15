@@ -543,11 +543,17 @@ print(me.motto())
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+<!-- ✦ ANIMATED PERSONAL MOTTO ✦ -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=30&lines=%E2%9C%A8+%22Code+with+purpose%2C+learn+with+passion%2C+grow+with+persistence%22+%E2%80%94+Deeraj;%F0%9F%92%A1+%22The+best+way+to+predict+the+future+is+to+create+it%22+%E2%80%94+Peter+Drucker;%F0%9F%94%A5+%22First+solve+the+problem%2C+then+write+the+code%22+%E2%80%94+John+Johnson;%F0%9F%9A%80+%22It+always+seems+impossible+until+it's+done%22+%E2%80%94+Nelson+Mandela" alt="Quotes" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"/>
 
 <br/><br/>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%2358a6ff&aColor=%238b949e" alt="Dev Joke" width="500"/>
+<!-- ✦ FUN FACTS TYPING ✦ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=20&lines=%F0%9F%8E%AE+Fun+Fact%3A+I+debug+with+console.log+and+I'm+proud!;%E2%98%95+Powered+by+coffee+and+curiosity;%F0%9F%90%8D+Python+is+my+first+love;%F0%9F%92%BB+Coding+since+2022+and+never+looked+back" alt="Fun Facts" />
 
 </div>
 
