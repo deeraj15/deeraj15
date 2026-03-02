@@ -16,7 +16,7 @@
 
 <!-- ✦ ANIMATED ROLE CYCLING WITH TYPEWRITER EFFECT ✦ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&repeat=true&width=750&height=35&lines=%F0%9F%8F%A2+IT+Associate+Intern+%40+Navsan+India;%F0%9F%92%BB+Ex-SDE+Intern+%40+LogicWhile+(Python+Full-Stack);%F0%9F%8E%93+B.Tech+CSE+%40+SR+University+'26+%7C+CGPA%3A+8.2;%F0%9F%93%9C+Patent+Published+in+Computer+Science+Domain;%F0%9F%8F%86+South+Zone+Anveshan+Finalist+%7C+SIH+Finalist;%F0%9F%94%A5+Python+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Flask" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&repeat=true&width=750&height=35&lines=%F0%9F%8F%A2+IT+Associate+Intern+%40+Navsan+India;%F0%9F%92%BB+Ex-SDE+Intern+%40+LogicWhile+(Python+Full-Stack);%F0%9F%8E%93+B.Tech+CSE+%40+SR+University+'26+%7C+CGPA%3A+8.2;%F0%9F%8F%86+South+Zone+Anveshan+Finalist+%7C+SIH+Finalist;%F0%9F%94%A5+Python+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Flask" alt="Roles" />
 </a>
 
 <br/><br/>
@@ -57,7 +57,7 @@ I'm **Deeraj Monala** — a Computer Science student and software developer who 
 - 🏢 **Currently:** IT Associate Intern @ **Navsan India**
 - 💻 **Previously:** SDE Intern @ **LogicWhile** (Python Full-Stack)
 - 🎓 **Education:** B.Tech CSE @ **SR University** (CGPA: 8.2)
-- 📜 **Patent Published** in Computer Science Domain
+
 - 🏆 **Finalist** — South Zone Anveshan (National Level)
 - 🥉 **5th Place** — Smart India Hackathon
 - 📚 **NPTEL Certified** — Theory of Computation
@@ -447,15 +447,7 @@ I regularly practice on **LeetCode** to sharpen my skills in:
 <sub>IIT Certification</sub>
 
 </td>
-<td align="center" width="33%">
-
-<img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="60"/><br/><br/>
-<img src="https://img.shields.io/badge/-PATENT-FF6B6B?style=for-the-badge" /><br/><br/>
-**Patent Published**<br/>
-<sub>Computer Science Domain</sub>
-
-</td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="60"/><br/><br/>
 <img src="https://img.shields.io/badge/-ANVESHAN-58A6FF?style=for-the-badge" /><br/><br/>
